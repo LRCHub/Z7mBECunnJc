@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フルーツ!フルーツ!フルルーツ?",
+  "base_artist": "PPP",
+  "createdAt": "2026-03-06T06:56:43.626137Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フルーツ!フルーツ!フルルーツ?",
+      "artist": "PPP",
+      "has_synced": false,
+      "path": "select/pl_01_フルーツ!フルーツ!フルルーツ_PPP.txt"
+    }
+  ]
+}
